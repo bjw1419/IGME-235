@@ -1,6 +1,6 @@
 # Home Page
 ## Overview
-- Frenzy is a fixed shooter that closely resemble the arcade game space invaders. 
+Frenzy is a fixed shooter that closely resemble the arcade game space invaders. 
 Your goal is accumulate points by shooting the projectiles before they hit the ground. 
 
 # Proposal
