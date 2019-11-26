@@ -28,7 +28,7 @@ The color scheme is laid back and tame where the content is a blend of
 yellows and grays, and the background is a mish-mash of various bananas 
 images.
 
-## V. Gameplay
+## V. Features
 
 ### Mechanics
 
@@ -38,7 +38,8 @@ of money the person has. Finally a radio button for if you want to
 buy the bananas or not. Once those inputs are complete a button to 
 display the results will do so.
 
-## VI. Who did what
+## VI. Documentation
+
 
 ### Alex
 
@@ -52,7 +53,5 @@ display the results will do so.
 #### Very little of the HTMLL.
 #### A good portion of the CSS.
 #### The Documentation 
-
-# Documentation
 
 All of the pictures were taken off of google images (not exactly sure the specific people who maid them)
