@@ -44,13 +44,13 @@ display the results will do so.
 ### Alex
 
 #### A large majority of the JS.
-#### A good portion of the HTML.
+#### About half the HTML(index.html)
 #### Some of the CSS.
 
 ### Brayden
 
 #### A small portion of the JS.
-#### Very little of the HTMLL.
+#### About half the HTML(documentation.html)
 #### A good portion of the CSS.
 #### The Documentation 
 
